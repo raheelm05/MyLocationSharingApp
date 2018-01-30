@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "274860281303",
+    "firebase_url": "https://raheellocationapp.firebaseio.com",
+    "project_id": "raheellocationapp",
+    "storage_bucket": "raheellocationapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274860281303:android:c7b649649ba45444",
+        "android_client_info": {
+          "package_name": "com.raheelmalik.locationandstatesharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274860281303-rb6v5522dmkmbj7ahs2fkpoemnfjtto5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.raheelmalik.locationandstatesharing",
+            "certificate_hash": "87d77445f243b226a385ad2bc91fbe72961ea820"
+          }
+        },
+        {
+          "client_id": "274860281303-lqk659nf06tftsjpgnh69ao8sjgli15n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBKBJOYX-r2oMaxEzae7E6jDxthHubrpI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274860281303-lqk659nf06tftsjpgnh69ao8sjgli15n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
